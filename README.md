@@ -2,7 +2,7 @@
 
  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="400" height="320" />
 
-## I'm a Wife, Mom-To-Be, Developer, and Mentor!
+## I'm a Wife, Mom-To-Be, and Developer!
 
 - 🔭 I’m currently working on adding more features to all of my projects.
 - 👯 I’m looking to collaborate with others building challenging and interesting products.
