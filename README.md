@@ -11,7 +11,7 @@
 - 💬 Ask me about ANYTHING!
 - 📫 How to reach me: LinkedIn
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I will tell you later
+- ⚡ Fun fact: I have been to the base camp of Mountain Everest 🏔️
 
 ### Talk with me, I am kinda awesome:
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
