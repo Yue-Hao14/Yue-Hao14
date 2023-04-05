@@ -5,11 +5,9 @@
 ## I'm a Wife, Mom-To-Be, Developer, and Mentor!
 
 - 🔭 I’m currently working on adding more features to all of my projects.
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on with others building challenging and interesting products.
+- 👯 I’m looking to collaborate with others building challenging and interesting products.
 - 🤔 I’m looking for help with job landing.
 - 💬 Ask me about ANYTHING!
-- 📫 How to reach me: LinkedIn
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I have been to the base camp of Mountain Everest 🏔️
 
