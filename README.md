@@ -1,6 +1,6 @@
 ### Hello World, I'm Yue
 
- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="400" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="380" height="300" />
 
 ## I'm a Wife, Mom-To-Be, and Developer!
 
