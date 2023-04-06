@@ -23,7 +23,6 @@
       <img src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black" alt="AngelList Badge"/>
     </a>
 </div>
-<br />
 
 ### Languages and Tools:
 
@@ -48,9 +47,8 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+<br />
 
-<br />
-<br />
 ---
 
 <details>
