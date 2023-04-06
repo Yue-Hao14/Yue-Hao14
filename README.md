@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on adding more features to all of my projects.
 - 👯 I’m looking to collaborate with others building challenging and interesting products.
 - 🤔 I’m looking for help with job landing.
-- 💬 Ask me about ANYTHING!
+- 💬 Ask me ANYTHING!
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I have been to the base camp of Mountain Everest 🏔️
 
