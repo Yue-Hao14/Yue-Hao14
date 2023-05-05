@@ -50,19 +50,25 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
+### :zap: GitHub Stats
+<section>
   <img align="left" alt="Yue's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yue-hao14&show_icons=true&hide_border=true" />
+ <br />
+ <br />
+<br />
+<br />
+<br />
+<br />
+<br />
+</section>
 
-</details>
+<br />
 
-<details>
-  <summary>:zap: Most Used Languages</summary>
+### :zap: Most Used Languages
+<section>
+ <img align="left" alt="Yue's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yue-hao14" />
+</section>
 
-<img align="left" alt="Yue's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yue-hao14" />
-
-</details>
 
 [linkedin]: https://www.linkedin.com/in/yue-hao/
 
