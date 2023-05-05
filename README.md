@@ -55,13 +55,15 @@
   <img align="left" alt="Yue's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yue-hao14&show_icons=true&hide_border=true" />
  <br />
  <br />
-<br />
-<br />
-<br />
-<br />
-<br />
+ <br />
+ <br />
+ <br />
+ <br />
+ <br />
 </section>
 
+<br />
+<br />
 <br />
 
 ### :zap: Most Used Languages
